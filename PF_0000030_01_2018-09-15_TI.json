@@ -1,0 +1,57 @@
+[
+  {
+    "statusCode": "00",
+    "statusMessage": "NORMAL_CODE",
+    "facilityId": "PF_0000030_01",
+    "measDate": "2018-09-15 00:00:00",
+    "itemCode": "080400",
+    "fldCode": "FG",
+    "sectCode": "EI",
+    "fatrCode": "TI",
+    "senVal": "22.77"
+  },
+  {
+    "statusCode": null,
+    "statusMessage": null,
+    "facilityId": "PF_0000030_01",
+    "measDate": "2018-09-15 01:00:00",
+    "itemCode": "080400",
+    "fldCode": "FG",
+    "sectCode": "EI",
+    "fatrCode": "TI",
+    "senVal": "22.78"
+  },
+  {
+    "statusCode": null,
+    "statusMessage": null,
+    "facilityId": "PF_0000030_01",
+    "measDate": "2018-09-15 02:00:00",
+    "itemCode": "080400",
+    "fldCode": "FG",
+    "sectCode": "EI",
+    "fatrCode": "TI",
+    "senVal": "22.79"
+  },
+  {
+    "statusCode": null,
+    "statusMessage": null,
+    "facilityId": "PF_0000030_01",
+    "measDate": "2018-09-15 03:00:00",
+    "itemCode": "080400",
+    "fldCode": "FG",
+    "sectCode": "EI",
+    "fatrCode": "TI",
+    "senVal": "22.46"
+  },
+  {
+    "statusCode": null,
+    "statusMessage": null,
+    "facilityId": "PF_0000030_01",
+    "measDate": "2018-09-15 04:00:00",
+    "itemCode": "080400",
+    "fldCode": "FG",
+    "sectCode": "EI",
+    "fatrCode": "TI",
+    "senVal": "22.60"
+  }
+]
